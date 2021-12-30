@@ -1,0 +1,10 @@
+cd into project
+
+pyton -m venv env 
+
+activate
+
+pip install -r requirements.txt
+
+
+
