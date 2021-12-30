@@ -1,3 +1,5 @@
+not important, just stuff for me to remember
+
 cd into project
 
 pyton -m venv env 
